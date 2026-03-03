@@ -1,0 +1,32 @@
+{
+  "devices": [
+    {
+      "id": "agilent-34401a",
+      "type": "agilent",
+      "host": "192.168.1.100",
+      "port": 5025,
+      "intervalSec": 15
+    },
+    {
+      "id": "keysight-34461a",
+      "type": "keysight",
+      "host": "192.168.1.101",
+      "port": 5025,
+      "intervalSec": 12
+    },
+    {
+      "id": "yokogawa-wt333e",
+      "type": "yokogawa",
+      "host": "192.168.1.102",
+      "port": 5025,
+      "intervalSec": 20
+    },
+    {
+      "id": "winding-analyser-2293",
+      "type": "winding-analyser",
+      "host": "192.168.1.103",
+      "port": 50000,
+      "intervalSec": 60
+    }
+  ]
+}
